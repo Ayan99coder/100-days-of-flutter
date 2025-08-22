@@ -1,6 +1,7 @@
 # roll_dice
 
-A new Flutter project.
+<img width="626" height="887" alt="image" src="https://github.com/user-attachments/assets/8f429faa-f9b4-40e3-bf29-6932fd8a9f5b" />
+
 
 ## Getting Started
 
