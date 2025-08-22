@@ -1,6 +1,8 @@
 # bmi_calc_practice
 
-A new Flutter project.
+<img width="613" height="887" alt="asa" src="https://github.com/user-attachments/assets/bed198b2-2de8-49fb-a5df-78f287f997f0" />
+<img width="612" height="887" alt="asfs" src="https://github.com/user-attachments/assets/244a4a72-fb20-4472-ab01-d9ae4bd1ec53" />
+
 
 ## Getting Started
 
