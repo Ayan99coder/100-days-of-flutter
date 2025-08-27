@@ -1,6 +1,8 @@
 # multiple_question_quiz
 
-A new Flutter project.
+<img width="622" height="886" alt="gkdsbm" src="https://github.com/user-attachments/assets/7410ac66-5139-484a-93f6-cbc4497920e3" />
+<img width="622" height="860" alt="cxm " src="https://github.com/user-attachments/assets/f8e76c36-0d7b-4e3f-b0eb-2446d1110089" />
+
 
 ## Getting Started
 
