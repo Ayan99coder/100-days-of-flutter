@@ -1,6 +1,13 @@
 # weather_new_one
+<img width="612" height="885" alt="image" src="https://github.com/user-attachments/assets/2d9cc69a-de12-407a-9b55-1a63e50dad6c" />
+use of spinkitbounce
+<img width="607" height="882" alt="image" src="https://github.com/user-attachments/assets/283e43da-4d06-40d7-bd12-8f54c3e6f5db" />
+ask permission for location
 
-A new Flutter project.
+<img width="624" height="881" alt="image" src="https://github.com/user-attachments/assets/5d5cb7d2-ec26-4129-b4c0-7f88a0522696" />
+<img width="616" height="877" alt="image" src="https://github.com/user-attachments/assets/0c351932-e0d3-4e7b-8411-10df94f5252c" />
+<img width="621" height="873" alt="image" src="https://github.com/user-attachments/assets/177ca8a6-39a2-4bb6-a55a-b04eda08e7a3" />
+
 
 ## Getting Started
 
