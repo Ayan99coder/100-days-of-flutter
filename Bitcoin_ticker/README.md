@@ -1,6 +1,8 @@
 # bitcoin_ticker
 
-A new Flutter project.
+<img width="623" height="881" alt="bitcoin ticker android" src="https://github.com/user-attachments/assets/e0e9008b-8f01-44e4-b747-3f140063a7e3" />
+
+<img width="622" height="882" alt="bitcoin ticker with capertino" src="https://github.com/user-attachments/assets/66d77eb8-95f4-46b9-9c6d-f9c7b2f2d532" />
 
 ## Getting Started
 
