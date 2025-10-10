@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300753814153",
+    "project_id": "employeedata-d1a1e",
+    "storage_bucket": "employeedata-d1a1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300753814153:android:35b401756209ba0247fc58",
+        "android_client_info": {
+          "package_name": "com.example.repract"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oZp1fzHZqB6wdlPU-iQ-6Ga43Rzm7Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
