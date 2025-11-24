@@ -1,6 +1,9 @@
 # theme_color_app
 
 A new Flutter project.
+<img width="620" height="887" alt="theme" src="https://github.com/user-attachments/assets/0f4886e5-9731-4f8b-ac6c-009c78e12205" />
+
+<img width="608" height="897" alt="themedark" src="https://github.com/user-attachments/assets/fa2e6d13-ae49-4f07-9a38-cca14a214375" />
 
 ## Getting Started
 
